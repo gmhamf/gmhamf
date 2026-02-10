@@ -27,12 +27,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gmhamf&theme=radical&no-frame=false&margin-w=4" alt="gmhamf trophies" />
-</p>
 
----
 
 ## 🌐 Connect with Me
 <p align="left">
