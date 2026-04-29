@@ -5,12 +5,12 @@
 </p>
 
 ## 🧑‍💻 About Me
-[cite_start]**A backend-focused full-stack web developer building scalable and practical solutions.** [cite: 5] I believe good code starts with fully understanding the problem before writing a single line. My philosophy is simple: *If a solution isn’t logical and scalable, it’s not finished.*
+**A backend-focused full-stack web developer building scalable and practical solutions.** I believe good code starts with fully understanding the problem before writing a single line. My philosophy is simple: *If a solution isn’t logical and scalable, it’s not finished.*
 
-* [cite_start]**🔭 Currently working on:** High-performance web platforms using **Laravel** and **Next.js (TypeScript)** [cite: 5][cite_start], focusing on AI integration (Groq LLM) [cite: 11][cite_start], and scalable MVC architectures[cite: 6].
-* **🌱 Learning:** Actively transitioning to **C# and ASP.NET Core** for building enterprise-grade APIs, while exploring IoT implementations with Arduino.
-* [cite_start]**🤝 Looking to collaborate on:** Serious technical platforms, open-source AI assistive technologies[cite: 20], or educational systems that demand clean logic.
-* [cite_start]**💬 Ask me about:** Laravel, Next.js [cite: 5][cite_start], Relational Databases (MySQL/PostgreSQL) [cite: 9][cite_start], and building RESTful APIs[cite: 6].
+* **🔭 Currently working on:** High-performance web platforms using **Laravel** and **Next.js (TypeScript)**, focusing on AI integration (Groq LLM), and scalable MVC architectures.
+* **🌱 Learning & Exploring:** Advanced System Design, AI/CV integrations, and **IoT implementations** (utilizing Arduino and MQTT to connect hardware sensors to web servers).
+* **🤝 Looking to collaborate on:** Serious technical platforms, open-source AI assistive technologies, or educational systems that demand clean logic.
+* **💬 Ask me about:** Laravel, Next.js, Relational Databases (MySQL/PostgreSQL), and building RESTful APIs.
 
 ---
 
